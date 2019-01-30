@@ -1,18 +1,12 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\app",
     "\\app\\Http",
     "\\app\\Http\\Controllers",
     "\\app\\Http\\Controllers\\Auth",
-    "\\resources",
     "\\resources\\views",
-    "\\resources\\views\\auth",
-    "\\resources\\views\\auth\\passwords",
+    "\\resources\\views\\common",
     "\\resources\\views\\layouts",
-    "\\resources\\views\\tasks",
-    "\\routes"
+    "\\resources\\views\\tasks"
   ],
-  "SelectedNode": "\\app\\Http\\Controllers\\TaskController.php",
   "PreviewInSolutionExplorer": false
 }
